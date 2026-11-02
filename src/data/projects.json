@@ -1,0 +1,14 @@
+[
+  {
+    "title": "PROYECTOS DE AGUA Y SANEAMIENTO",
+    "description": "Procesamiento y análisis espacial de redes de saneamiento (agua y alcantarillado) a partir de geodatabases de EPS, optimizando la identificación de interferencias en infraestructura.",
+    "image": "/projects/svgl.webp",
+    "tags": []
+  },
+  {
+    "title": "PROYECTOS DE RIESGOS DE DESASTRES",
+    "description": "Procesamiento y análisis espacial para la identificación de peligros, evaluación de vulnerabilidades y estimación del riesgo en el territorio.",
+    "image": "/projects/adventjs.webp",
+    "tags": []
+  }
+]

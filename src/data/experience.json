@@ -1,0 +1,21 @@
+[
+  {
+    "date": "Abril 2021 - Actualidad",
+    "title": "Especialista en sistemas de información geográfica",
+    "company": "SEINAR-CONSULTORES",
+    "description": "Modelado tridimensional y procesamiento de datos espaciales heterogéneos aplicados a sistemas de saneamiento básico. Implementación de mapas y visores interactivos para optimizar el monitoreo, la planificación y el análisis de la red hidráulica.",
+    "current": true
+  },
+  {
+    "date": "Junio 2019 - Marzo 2021",
+    "title": "Analista en sistemas de información geográfica",
+    "company": "GRUPO UNION",
+    "description": "Diseño, modelado y validación de geodatabases para redes de fibra óptica. Realización de depuración topológica y desarrollo de soluciones cartográficas temáticas orientadas a la toma de decisiones en la fase de ingeniería y tendido."
+  },
+  {
+    "date": "Noviembre 2016 - Mayo 2019",
+    "title": "Analista en sistemas de información geográfica",
+    "company": "Applus Norcontrol",
+    "description": "Modelado y análisis geoespacial para la detección y evaluación de interferencias entre infraestructura urbana y redes de gas natural (Calidda), integrando y normalizando bases de datos multiorigen para la generación de mapas de calor y cartografía temática de alto impacto."
+  }
+]
